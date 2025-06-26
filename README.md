@@ -1,0 +1,1 @@
+All about me 👨‍💻, my coding standards 💡, and development rules 📋 — to speed up coding and build high-quality software 🛠️.
