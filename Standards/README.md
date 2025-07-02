@@ -2,6 +2,7 @@
 | ID     | Name              | Modification | Created On   | Updated On   |
 |--------|-------------------|--------------|--------------|--------------|
 | ST0001 | Lyxbux Versioning | M1           | 26 June 2025 | 26 June 2025 |
+| ST0002 | Uniplace          | M1           | 02 July 2025 | 02 July 2025 |
 
 ## 📐 How Standards Work?
 Each standard is identified by a unique standard id (e.g., `ST0001`) and paired with a modification number (`M1`, `M2`, etc.). Only the modification number changes when the meaning or context of the standard changes.
