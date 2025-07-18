@@ -1,9 +1,9 @@
 # 🧮 Standards
-| ID     | Name              | Modification | Created On   | Updated On   |
-|--------|-------------------|--------------|--------------|--------------|
-| ST0001 | Lyxbux Versioning | M1           | 26 June 2025 | 26 June 2025 |
-| ST0002 | Uniplace          | M1           | 02 July 2025 | 02 July 2025 |
-| ST0001 | Lyxbux Versioning | M2           | 17 July 2025 | 17 July 2025 |
+| ID     | Name              | Modification | Created On   | Updated On   | Authors    | More                        |
+|--------|-------------------|--------------|--------------|--------------|------------|-----------------------------|
+| ST0001 | Lyxbux Versioning | M1           | 26 June 2025 | 26 June 2025 | Lyxbux     | [Link](ST0001/M1/README.md) |
+| ST0002 | Uniplace          | M1           | 02 July 2025 | 02 July 2025 | Lyxbux     | [Link](ST0002/M1/README.md) |
+| ST0001 | Lyxbux Versioning | M2           | 17 July 2025 | 17 July 2025 | AskLukeKoy | [Link](ST0001/M2/README.md) |
 
 ## 📐 How Standards Work?
 Each standard is identified by a unique standard id (e.g., `ST0001`) and paired with a modification number (`M1`, `M2`, etc.). Only the modification number changes when the meaning or context of the standard changes.
